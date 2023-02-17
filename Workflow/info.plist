@@ -218,7 +218,7 @@
 				<key>fixedorder</key>
 				<true/>
 				<key>items</key>
-				<string>[{"title":"A0","arg":"841 x 1189,33.1 x 46.8","subtitle":"841 x 1189 mm 􀟀 33.1 x 46.8 in"},{"title":"A1","arg":"594 x 841,23.4 x 33.1","subtitle":"594 x 841 mm 􀟀 23.4 x 33.1 in"},{"title":"A2","arg":"420 x 594,16.5 x 23.4","subtitle":"420 x 594 mm 􀟀 16.5 x 23.4 in"},{"title":"A3","arg":"297 x 420,11.7 x 16.5","subtitle":"297 x 420 mm 􀟀 11.7 x 16.5 in"},{"title":"A4","arg":"210 x 297,8.3 x 11.7","subtitle":"210 x 297 mm 􀟀 8.3 x 11.7 in"},{"title":"A5","arg":"148 x 210,5.8 x 8.3","subtitle":"148 x 210 mm 􀟀 5.8 x 8.3 in"},{"title":"A6","arg":"105 x 148,4.1 x 5.8","subtitle":"105 x 148 mm 􀟀 4.1 x 5.8 in"},{"title":"A7","arg":"74 x 105,2.9 x 4.1","subtitle":"74 x 105 mm 􀟀 2.9 x 4.1 in"},{"title":"A8","arg":"52 x 74,2.0 x 2.9","subtitle":"52 x 74 mm 􀟀 2.0 x 2.9 in"},{"title":"A9","arg":"37 x 52,1.5 x 2.0","subtitle":"37 x 52 mm 􀟀 1.5 x 2.0 in"},{"title":"A10","arg":"26 x 37,1.0 x 1.5","subtitle":"26 x 37 mm 􀟀 1.0 x 1.5 in"},{"title":"B0","arg":"1000 x 1414,39.4 x 55.7","subtitle":"1000 x 1414 mm 􀟀 39.4 x 55.7 in"},{"title":"B1","arg":"707 x 1000,27.8 x 39.4","subtitle":"707 x 1000 mm 􀟀 27.8 x 39.4 in"},{"title":"B2","arg":"500 x 707,19.7 x 27.8","subtitle":"500 x 707 mm 􀟀 19.7 x 27.8 in"},{"title":"B3","arg":"353 x 500,13.9 x 19.7","subtitle":"353 x 500 mm 􀟀 13.9 x 19.7 in"},{"title":"B4","arg":"250 x 353,9.8 x 13.9","subtitle":"250 x 353 mm 􀟀 9.8 x 13.9 in"},{"title":"B5","arg":"176 x 250,6.9 x 9.8","subtitle":"176 x 250 mm 􀟀 6.9 x 9.8 in"},{"title":"B6","arg":"125 x 176,4.9 x 6.9","subtitle":"125 x 176 mm 􀟀 4.9 x 6.9 in"},{"title":"B7","arg":"88 x 125,3.5 x 4.9","subtitle":"88 x 125 mm 􀟀 3.5 x 4.9 in"},{"title":"B8","arg":"62 x 88,2.4 x 3.5","subtitle":"62 x 88 mm 􀟀 2.4 x 3.5 in"},{"title":"B9","arg":"44 x 62,1.7 x 2.4","subtitle":"44 x 62 mm 􀟀 1.7 x 2.4 in"},{"title":"B10","arg":"31 x 44,1.2 x 1.7","subtitle":"31 x 44 mm 􀟀 1.2 x 1.7 in"},{"title":"C0","arg":"917 x 1297,36.1 x 51.1","subtitle":"917 x 1297 mm 􀟀 36.1 x 51.1 in"},{"title":"C1","arg":"648 x 917,25.5 x 36.1","subtitle":"648 x 917 mm 􀟀 25.5 x 36.1 in"},{"title":"C2","arg":"458 x 648,18.0 x 25.5","subtitle":"458 x 648 mm 􀟀 18.0 x 25.5 in"},{"title":"C3","arg":"324 x 458,12.8 x 18.0","subtitle":"324 x 458 mm 􀟀 12.8 x 18.0 in"},{"title":"C4","arg":"229 x 324,9.0 x 12.8","subtitle":"229 x 324 mm 􀟀 9.0 x 12.8 in"},{"title":"C5","arg":"162 x 229,6.4 x 9.0","subtitle":"162 x 229 mm 􀟀 6.4 x 9.0 in"},{"title":"C6","arg":"114 x 162,4.5 x 6.4","subtitle":"114 x 162 mm 􀟀 4.5 x 6.4 in"},{"title":"C7","arg":"81 x 114,3.2 x 4.5","subtitle":"81 x 114 mm 􀟀 3.2 x 4.5 in"},{"title":"C8","arg":"57 x 81,2.2 x 3.2","subtitle":"57 x 81 mm 􀟀 2.2 x 3.2 in"},{"title":"C9","arg":"40 x 57,1.6 x 2.2","subtitle":"40 x 57 mm 􀟀 1.6 x 2.2 in"},{"title":"C10","arg":"28 x 40,1.1 x 1.6","subtitle":"28 x 40 mm 􀟀 1.1 x 1.6 in"}]</string>
+				<string>[{"title":"A0","arg":"841 x 1189,33.1 x 46.8","subtitle":"841 x 1189 mm 𐄁 33.1 x 46.8 in"},{"title":"A1","arg":"594 x 841,23.4 x 33.1","subtitle":"594 x 841 mm 𐄁 23.4 x 33.1 in"},{"title":"A2","arg":"420 x 594,16.5 x 23.4","subtitle":"420 x 594 mm 𐄁 16.5 x 23.4 in"},{"title":"A3","arg":"297 x 420,11.7 x 16.5","subtitle":"297 x 420 mm 𐄁 11.7 x 16.5 in"},{"title":"A4","arg":"210 x 297,8.3 x 11.7","subtitle":"210 x 297 mm 𐄁 8.3 x 11.7 in"},{"title":"A5","arg":"148 x 210,5.8 x 8.3","subtitle":"148 x 210 mm 𐄁 5.8 x 8.3 in"},{"title":"A6","arg":"105 x 148,4.1 x 5.8","subtitle":"105 x 148 mm 𐄁 4.1 x 5.8 in"},{"title":"A7","arg":"74 x 105,2.9 x 4.1","subtitle":"74 x 105 mm 𐄁 2.9 x 4.1 in"},{"title":"A8","arg":"52 x 74,2.0 x 2.9","subtitle":"52 x 74 mm 𐄁 2.0 x 2.9 in"},{"title":"A9","arg":"37 x 52,1.5 x 2.0","subtitle":"37 x 52 mm 𐄁 1.5 x 2.0 in"},{"title":"A10","arg":"26 x 37,1.0 x 1.5","subtitle":"26 x 37 mm 𐄁 1.0 x 1.5 in"},{"title":"B0","arg":"1000 x 1414,39.4 x 55.7","subtitle":"1000 x 1414 mm 𐄁 39.4 x 55.7 in"},{"title":"B1","arg":"707 x 1000,27.8 x 39.4","subtitle":"707 x 1000 mm 𐄁 27.8 x 39.4 in"},{"title":"B2","arg":"500 x 707,19.7 x 27.8","subtitle":"500 x 707 mm 𐄁 19.7 x 27.8 in"},{"title":"B3","arg":"353 x 500,13.9 x 19.7","subtitle":"353 x 500 mm 𐄁 13.9 x 19.7 in"},{"title":"B4","arg":"250 x 353,9.8 x 13.9","subtitle":"250 x 353 mm 𐄁 9.8 x 13.9 in"},{"title":"B5","arg":"176 x 250,6.9 x 9.8","subtitle":"176 x 250 mm 𐄁 6.9 x 9.8 in"},{"title":"B6","arg":"125 x 176,4.9 x 6.9","subtitle":"125 x 176 mm 𐄁 4.9 x 6.9 in"},{"title":"B7","arg":"88 x 125,3.5 x 4.9","subtitle":"88 x 125 mm 𐄁 3.5 x 4.9 in"},{"title":"B8","arg":"62 x 88,2.4 x 3.5","subtitle":"62 x 88 mm 𐄁 2.4 x 3.5 in"},{"title":"B9","arg":"44 x 62,1.7 x 2.4","subtitle":"44 x 62 mm 𐄁 1.7 x 2.4 in"},{"title":"B10","arg":"31 x 44,1.2 x 1.7","subtitle":"31 x 44 mm 𐄁 1.2 x 1.7 in"},{"title":"C0","arg":"917 x 1297,36.1 x 51.1","subtitle":"917 x 1297 mm 𐄁 36.1 x 51.1 in"},{"title":"C1","arg":"648 x 917,25.5 x 36.1","subtitle":"648 x 917 mm 𐄁 25.5 x 36.1 in"},{"title":"C2","arg":"458 x 648,18.0 x 25.5","subtitle":"458 x 648 mm 𐄁 18.0 x 25.5 in"},{"title":"C3","arg":"324 x 458,12.8 x 18.0","subtitle":"324 x 458 mm 𐄁 12.8 x 18.0 in"},{"title":"C4","arg":"229 x 324,9.0 x 12.8","subtitle":"229 x 324 mm 𐄁 9.0 x 12.8 in"},{"title":"C5","arg":"162 x 229,6.4 x 9.0","subtitle":"162 x 229 mm 𐄁 6.4 x 9.0 in"},{"title":"C6","arg":"114 x 162,4.5 x 6.4","subtitle":"114 x 162 mm 𐄁 4.5 x 6.4 in"},{"title":"C7","arg":"81 x 114,3.2 x 4.5","subtitle":"81 x 114 mm 𐄁 3.2 x 4.5 in"},{"title":"C8","arg":"57 x 81,2.2 x 3.2","subtitle":"57 x 81 mm 𐄁 2.2 x 3.2 in"},{"title":"C9","arg":"40 x 57,1.6 x 2.2","subtitle":"40 x 57 mm 𐄁 1.6 x 2.2 in"},{"title":"C10","arg":"28 x 40,1.1 x 1.6","subtitle":"28 x 40 mm 𐄁 1.1 x 1.6 in"}]</string>
 				<key>keyword</key>
 				<string>{var:iso_keyword}</string>
 				<key>matchmode</key>
@@ -270,7 +270,7 @@
 				<key>fixedorder</key>
 				<true/>
 				<key>items</key>
-				<string>[{"title":"Letter","arg":"215.9 x 279.4,8.5 x 11","subtitle":"215.9 x 279.4 mm 􀟀 8.5 x 11 in"},{"title":"Government-Letter","arg":"203.2 x 226.7,8.0 x 10.5","subtitle":"203.2 x 226.7 mm 􀟀 8.0 x 10.5 in"},{"title":"Legal","arg":"215.9 x 355.6,8.5 x 14","subtitle":"215.9 x 355.6 mm 􀟀 8.5 x 14 in"},{"title":"Junior Legal","arg":"203.2 x 127,8.0 x 5.0","subtitle":"203.2 x 127 mm 􀟀 8.0 x 5.0 in"},{"title":"Ledger","arg":"432 x 279,17 x 11","subtitle":"432 x 279 mm 􀟀 17 x 11 in"},{"title":"Tabloid","arg":"279 x 432,11 x 17","subtitle":"279 x 432 mm 􀟀 11 x 17 in"}]</string>
+				<string>[{"title":"Letter","arg":"215.9 x 279.4,8.5 x 11","subtitle":"215.9 x 279.4 mm 𐄁 8.5 x 11 in"},{"title":"Government-Letter","arg":"203.2 x 226.7,8.0 x 10.5","subtitle":"203.2 x 226.7 mm 𐄁 8.0 x 10.5 in"},{"title":"Legal","arg":"215.9 x 355.6,8.5 x 14","subtitle":"215.9 x 355.6 mm 𐄁 8.5 x 14 in"},{"title":"Junior Legal","arg":"203.2 x 127,8.0 x 5.0","subtitle":"203.2 x 127 mm 𐄁 8.0 x 5.0 in"},{"title":"Ledger","arg":"432 x 279,17 x 11","subtitle":"432 x 279 mm 𐄁 17 x 11 in"},{"title":"Tabloid","arg":"279 x 432,11 x 17","subtitle":"279 x 432 mm 𐄁 11 x 17 in"}]</string>
 				<key>keyword</key>
 				<string>{var:north_american_keyword}</string>
 				<key>matchmode</key>
@@ -352,7 +352,7 @@
 				<key>fixedorder</key>
 				<true/>
 				<key>items</key>
-				<string>[{"title":"B0","arg":"1030 x 1456,40.55 x 57.32","subtitle":"1030 x 1456 mm 􀟀 40.55 x 57.32 in"},{"title":"B1","arg":"728 x 1030,28.66 x 40.55","subtitle":"728 x 1030 mm 􀟀 28.66 x 40.55 in"},{"title":"B2","arg":"515 x 728,20.28 x 28.66","subtitle":"515 x 728 mm 􀟀 20.28 x 28.66 in"},{"title":"B3","arg":"364 x 515,14.33 x 20.28","subtitle":"364 x 515 mm 􀟀 14.33 x 20.28 in"},{"title":"B4","arg":"257 x 364,10.12 x 14.33","subtitle":"257 x 364 mm 􀟀 10.12 x 14.33 in"},{"title":"B5","arg":"182 x 257,7.17 x 10.12","subtitle":"182 x 257 mm 􀟀 7.17 x 10.12 in"},{"title":"B6","arg":"128 x 182,5.04 x 7.17","subtitle":"128 x 182 mm 􀟀 5.04 x 7.17 in"},{"title":"B7","arg":"91 x 128,3.58 x 5.04","subtitle":"91 x 128 mm 􀟀 3.58 x 5.04 in"},{"title":"B8","arg":"64 x 91,2.52 x 3.58","subtitle":"64 x 91 mm 􀟀 2.52 x 3.58 in"},{"title":"B9","arg":"45 x 64,1.77 x 2.52","subtitle":"45 x 64 mm 􀟀 1.77 x 2.52 in"},{"title":"B10","arg":"32 x 45,1.26 x 1.77","subtitle":"32 x 45 mm 􀟀 1.26 x 1.77 in"},{"title":"B11","arg":"22 x 32,0.87 x 1.26","subtitle":"22 x 32 mm 􀟀 0.87 x 1.26 in"},{"title":"B12","arg":"16 x 22,0.63 x 0.87","subtitle":"16 x 22 mm 􀟀 0.63 x 0.87 in"},{"title":"Shiroku ban 4","arg":"264 x 379,10.39 x 14.92","subtitle":"264 x 379 mm 􀟀 10.39 x 14.92 in"},{"title":"Shiroku ban 5","arg":"189 x 262,7.44 x 10.31","subtitle":"189 x 262 mm 􀟀 7.44 x 10.31 in"},{"title":"Shiroku ban 6","arg":"127 x 188,5.00 x 7.40","subtitle":"127 x 188 mm 􀟀 5.00 x 7.40 in"},{"title":"Kiku 4","arg":"227 x 306,8.94 x 12.05","subtitle":"227 x 306 mm 􀟀 8.94 x 12.05 in"},{"title":"Kiku 5","arg":"151 x 227,5.94 x 8.94","subtitle":"151 x 227 mm 􀟀 5.94 x 8.94 in"}]</string>
+				<string>[{"title":"B0","arg":"1030 x 1456,40.55 x 57.32","subtitle":"1030 x 1456 mm 𐄁 40.55 x 57.32 in"},{"title":"B1","arg":"728 x 1030,28.66 x 40.55","subtitle":"728 x 1030 mm 𐄁 28.66 x 40.55 in"},{"title":"B2","arg":"515 x 728,20.28 x 28.66","subtitle":"515 x 728 mm 𐄁 20.28 x 28.66 in"},{"title":"B3","arg":"364 x 515,14.33 x 20.28","subtitle":"364 x 515 mm 𐄁 14.33 x 20.28 in"},{"title":"B4","arg":"257 x 364,10.12 x 14.33","subtitle":"257 x 364 mm 𐄁 10.12 x 14.33 in"},{"title":"B5","arg":"182 x 257,7.17 x 10.12","subtitle":"182 x 257 mm 𐄁 7.17 x 10.12 in"},{"title":"B6","arg":"128 x 182,5.04 x 7.17","subtitle":"128 x 182 mm 𐄁 5.04 x 7.17 in"},{"title":"B7","arg":"91 x 128,3.58 x 5.04","subtitle":"91 x 128 mm 𐄁 3.58 x 5.04 in"},{"title":"B8","arg":"64 x 91,2.52 x 3.58","subtitle":"64 x 91 mm 𐄁 2.52 x 3.58 in"},{"title":"B9","arg":"45 x 64,1.77 x 2.52","subtitle":"45 x 64 mm 𐄁 1.77 x 2.52 in"},{"title":"B10","arg":"32 x 45,1.26 x 1.77","subtitle":"32 x 45 mm 𐄁 1.26 x 1.77 in"},{"title":"B11","arg":"22 x 32,0.87 x 1.26","subtitle":"22 x 32 mm 𐄁 0.87 x 1.26 in"},{"title":"B12","arg":"16 x 22,0.63 x 0.87","subtitle":"16 x 22 mm 𐄁 0.63 x 0.87 in"},{"title":"Shiroku ban 4","arg":"264 x 379,10.39 x 14.92","subtitle":"264 x 379 mm 𐄁 10.39 x 14.92 in"},{"title":"Shiroku ban 5","arg":"189 x 262,7.44 x 10.31","subtitle":"189 x 262 mm 𐄁 7.44 x 10.31 in"},{"title":"Shiroku ban 6","arg":"127 x 188,5.00 x 7.40","subtitle":"127 x 188 mm 𐄁 5.00 x 7.40 in"},{"title":"Kiku 4","arg":"227 x 306,8.94 x 12.05","subtitle":"227 x 306 mm 𐄁 8.94 x 12.05 in"},{"title":"Kiku 5","arg":"151 x 227,5.94 x 8.94","subtitle":"151 x 227 mm 𐄁 5.94 x 8.94 in"}]</string>
 				<key>keyword</key>
 				<string>{var:jis_keyword}</string>
 				<key>matchmode</key>
@@ -376,25 +376,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>autopaste</key>
-				<false/>
-				<key>clipboardtext</key>
-				<string>{var:split2}</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>C8CC2218-72DC-40B5-A298-8E10BFF28F66</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -402,7 +383,7 @@
 				<key>fixedorder</key>
 				<true/>
 				<key>items</key>
-				<string>[{"title":"A","arg":"216 x 279,8.5 x 11","subtitle":"216 x 279 mm 􀟀 8.5 x 11 in"},{"title":"B","arg":"279 x 432,11 x 17","subtitle":"279 x 432 mm 􀟀 11 x 17 in"},{"title":"C","arg":"432 x 559,17 x 22","subtitle":"432 x 559 mm 􀟀 17 x 22 in"},{"title":"D","arg":"559 x 864,22 x 34","subtitle":"559 x 864 mm 􀟀 22 x 34 in"},{"title":"E","arg":"864 x 1118,34 x 44","subtitle":"864 x 1118 mm 􀟀 34 x 44 in"}]</string>
+				<string>[{"title":"A","arg":"216 x 279,8.5 x 11","subtitle":"216 x 279 mm 𐄁 8.5 x 11 in"},{"title":"B","arg":"279 x 432,11 x 17","subtitle":"279 x 432 mm 𐄁 11 x 17 in"},{"title":"C","arg":"432 x 559,17 x 22","subtitle":"432 x 559 mm 𐄁 17 x 22 in"},{"title":"D","arg":"559 x 864,22 x 34","subtitle":"559 x 864 mm 𐄁 22 x 34 in"},{"title":"E","arg":"864 x 1118,34 x 44","subtitle":"864 x 1118 mm 𐄁 34 x 44 in"}]</string>
 				<key>keyword</key>
 				<string>{var:ansi_keyword}</string>
 				<key>matchmode</key>
@@ -422,6 +403,25 @@
 			<string>D621EC96-3202-4531-A1A8-B9D06A8A785B</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:split2}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>C8CC2218-72DC-40B5-A298-8E10BFF28F66</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -465,7 +465,7 @@
 				<key>fixedorder</key>
 				<true/>
 				<key>items</key>
-				<string>[{"title":"A","arg":"229 x 305,9 x 12","subtitle":"229 x 305 mm 􀟀 9 x 12 in"},{"title":"B","arg":"305 x 457,12 x 18","subtitle":"305 x 457 mm 􀟀 12 x 18 in"},{"title":"C","arg":"457 x 610,18 x 24","subtitle":"457 x 610 mm 􀟀 18 x 24 in"},{"title":"D","arg":"610 x 914,24 x 36","subtitle":"610 x 914 mm 􀟀 24 x 36 in"},{"title":"E","arg":"914 x 1219,36 x 48","subtitle":"914 x 1219 mm 􀟀 36 x 48 in"},{"title":"E1","arg":"762 x 1067,30 x 42","subtitle":"762 x 1067 mm 􀟀 30 x 42 in"},{"title":"E2","arg":"660 x 965,26 x 38","subtitle":"660 x 965 mm 􀟀 26 x 38 in"},{"title":"E3","arg":"686 x 991,27 x 39","subtitle":"686 x 991 mm 􀟀 27 x 39 in"}]</string>
+				<string>[{"title":"A","arg":"229 x 305,9 x 12","subtitle":"229 x 305 mm 𐄁 9 x 12 in"},{"title":"B","arg":"305 x 457,12 x 18","subtitle":"305 x 457 mm 𐄁 12 x 18 in"},{"title":"C","arg":"457 x 610,18 x 24","subtitle":"457 x 610 mm 𐄁 18 x 24 in"},{"title":"D","arg":"610 x 914,24 x 36","subtitle":"610 x 914 mm 𐄁 24 x 36 in"},{"title":"E","arg":"914 x 1219,36 x 48","subtitle":"914 x 1219 mm 𐄁 36 x 48 in"},{"title":"E1","arg":"762 x 1067,30 x 42","subtitle":"762 x 1067 mm 𐄁 30 x 42 in"},{"title":"E2","arg":"660 x 965,26 x 38","subtitle":"660 x 965 mm 𐄁 26 x 38 in"},{"title":"E3","arg":"686 x 991,27 x 39","subtitle":"686 x 991 mm 𐄁 27 x 39 in"}]</string>
 				<key>keyword</key>
 				<string>{var:arch_keyword}</string>
 				<key>matchmode</key>
@@ -756,8 +756,10 @@ Keywords can be customised in the [Workflow’s Configuration](https://www.alfre
 			<string>default_copy</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>2023.1</string>
+	<string>2023.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/vitorgalvao/paper-formats-workflow/</string>
 </dict>
