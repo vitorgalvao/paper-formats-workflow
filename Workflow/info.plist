@@ -513,11 +513,11 @@
 
 Reference international paper formats via the keywords:
 
-* `paperiso`: International Standard (ISO 216) Paper Formats.
-* `paperna`: North American Paper Formats.
-* `paperjis`: Japanese B-series Variant Paper Formats.
-* `paperansi`: ANSI Paper Formats.
-* `paperarch`: Architectural Paper Formats.
+* `paperiso` International Standard (ISO 216) Paper Formats.
+* `paperna` North American Paper Formats.
+* `paperjis` Japanese B-series Variant Paper Formats.
+* `paperansi` ANSI Paper Formats.
+* `paperarch` Architectural Paper Formats.
 
 ![Different supported standard](images/about/paper.png)
 
@@ -756,8 +756,6 @@ Keywords can be customised in the [Workflow’s Configuration](https://www.alfre
 			<string>default_copy</string>
 		</dict>
 	</array>
-	<key>variablesdontexport</key>
-	<array/>
 	<key>version</key>
 	<string>2023.2</string>
 	<key>webaddress</key>
