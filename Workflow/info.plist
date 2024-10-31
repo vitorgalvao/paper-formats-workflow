@@ -757,7 +757,7 @@ Keywords can be customised in the [Workflow’s Configuration](https://www.alfre
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2023.2</string>
+	<string>2024.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/vitorgalvao/paper-formats-workflow/</string>
 </dict>

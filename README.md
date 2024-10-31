@@ -2,17 +2,17 @@
 
 Reference International Paper Formats
 
-<a href='https://alfred.app/workflows/vitor/paper-formats'>⤓ Install on the Alfred Gallery</a>
+[⤓ Install on the Alfred Gallery](https://alfred.app/workflows/vitor/paper-formats)
 
 ## Usage
 
 Reference international paper formats via the keywords:
 
-* `paperiso`: International Standard (ISO 216) Paper Formats.
-* `paperna`: North American Paper Formats.
-* `paperjis`: Japanese B-series Variant Paper Formats.
-* `paperansi`: ANSI Paper Formats.
-* `paperarch`: Architectural Paper Formats.
+* `paperiso` International Standard (ISO 216) Paper Formats.
+* `paperna` North American Paper Formats.
+* `paperjis` Japanese B-series Variant Paper Formats.
+* `paperansi` ANSI Paper Formats.
+* `paperarch` Architectural Paper Formats.
 
 ![Different supported standard](Workflow/images/about/paper.png)
 
